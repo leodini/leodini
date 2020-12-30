@@ -2,7 +2,7 @@
 
 Welcome to my **github** profile 
 
-[![Leo github stats](https://github-readme-stats.vercel.app/api?username=leodini)](https://github.com/leodini/github-readme-stats)
+[![Leo github stats](https://github-readme-stats.vercel.app/api?username=leodini&count_private=true&theme=dracula)](https://github.com/leodini/github-readme-stats)
 
 ### Languages and Tools
 
